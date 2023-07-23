@@ -41,6 +41,20 @@ const data = [
         gasPaid: 6.02,
         internetPaid: 30,
     },
+    {
+        year: 2023,
+        month: 7,
+        waterСountFirst: 978,
+        waterСountSecond: 850,
+        gasCount: 3848,
+        electricityCount: 12981,
+        comPaid: 63.80,
+        phonPaid: 3.73,
+        electricityPaid: 32.70,
+        tvPaid:7,
+        gasPaid: 5.48,
+        internetPaid: 30,
+    },
 
 ];
 export default data;
